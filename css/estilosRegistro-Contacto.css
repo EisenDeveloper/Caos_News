@@ -1,0 +1,50 @@
+/* --- --- REGISTRO --- --- */
+
+.Inicio{
+	margin-left: 30%;
+	margin-top: 1.5%;
+	display: flex;
+}
+
+.contenedor{
+	color:rgb(170, 170, 220);
+	margin-left: 30%;
+	margin-top: 1.75%;
+}
+
+.TituloRegistro{
+	color:rgb(60, 60, 230);
+	margin-left: 30%;
+}
+
+.form-group{
+	color:rgb(170, 170, 220);
+	right: 50%;
+}
+
+/* --- --- CONTACTOS --- --- */
+
+.InformacionUsuario{
+	margin-left: 30%;
+	margin-top: 1.75%;
+}
+
+.Mensaje{
+	margin-left: 30%;
+	margin-top: 1.75%;
+}
+
+.legend{
+	color:rgb(170, 170, 220);
+	margin-left: 30%;
+}
+
+.TituloContacto{
+	color:rgb(60, 60, 230);
+	margin-left: 30%;
+}
+
+.InicioContacto{
+	margin-left: 30%;
+	margin-top: 1.5%;
+}
