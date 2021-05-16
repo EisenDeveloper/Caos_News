@@ -142,26 +142,26 @@ body {
 /* --- --- PERIODISTAS --- --- */
 
 .NombresPeriodistas{
-	margin-left: 30%;
-	color:rgb(170, 170, 220);
+	margin-left: 0%;
+	color:rgb(0, 0, 0);
 }
 
 .Bodouqué{
-	margin-left: 30%;
-	color:rgb(170, 170, 220);
-}
-
-.Sakura{
-	margin-left: 30%;
-	color:rgb(170, 170, 220);
-}
-
-.JuanaDeBarco{
-	margin-left: 30%;
-	color:rgb(170, 170, 220);
+	margin-left: 0%;
+	color:rgb(0, 0, 0);
 }
 
 .PedroCanguro{
-	margin-left: 30%;
-	color:rgb(170, 170, 220);
+	margin-left: 60%;
+	color:rgb(0, 0, 0);
+}
+
+.JuanaDeBarco{
+	margin-left: 0%;
+	color:rgb(0, 0, 0);
+}
+
+.Sakura{
+	margin-left: 60%;
+	color:rgb(0, 0, 0);
 }
